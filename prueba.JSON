@@ -1,0 +1,22 @@
+{
+    "cura": {
+        "Windows": {
+            "major": 2,
+            "minor": 5,
+            "revision": 0,
+            "url": "http://www.kuttercraft.com"
+        },
+        "Linux": {
+            "major": 2,
+            "minor": 5,
+            "revision": 0,
+            "url": "http://www.kuttercraft.com"
+        },
+        "Darwin": {
+            "major": 2,
+            "minor": 5,
+            "revision": 0,
+            "url": "http://www.kuttercraft.com"
+        }
+    }
+}

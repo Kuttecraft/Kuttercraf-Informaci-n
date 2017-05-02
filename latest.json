@@ -1,0 +1,22 @@
+{
+    "cura": {
+        "Windows": {
+            "major": 2,
+            "minor": 5,
+            "revision": 0,
+            "url": "https://ultimaker.com/en/products/cura-software"
+        },
+        "Linux": {
+            "major": 2,
+            "minor": 5,
+            "revision": 0,
+            "url": "https://ultimaker.com/en/products/cura-software"
+        },
+        "Darwin": {
+            "major": 2,
+            "minor": 5,
+            "revision": 0,
+            "url": "https://ultimaker.com/en/products/cura-software"
+        }
+    }
+}
